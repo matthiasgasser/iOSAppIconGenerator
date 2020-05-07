@@ -122,18 +122,6 @@ json_data = {
             "filename":"Icon-App-40x40@2x.png"
         },
         {
-          "size" : "50x50",
-          "idiom" : "ipad",
-          "filename" : "Icon-Small-50x50@1x.png",
-          "scale" : "1x"
-        },
-        {
-          "size" : "50x50",
-          "idiom" : "ipad",
-          "filename" : "Icon-Small-50x50@2x.png",
-          "scale" : "2x"
-        },
-        {
             "idiom":"ipad",
             "size":"72x72",
             "scale":"1x",
@@ -162,7 +150,25 @@ json_data = {
             "size":"83.5x83.5",
             "scale":"2x",
             "filename":"Icon-App-83.5x83.5@2x.png"
-        }
+        },
+        {
+            "idiom":"ipad",
+            "size":"50x50",
+            "scale":"2x",
+            "filename":"Icon-App-50x50@2x.png"
+        },
+        {
+            "idiom":"ipad",
+            "size":"50x50",
+            "scale":"1x",
+            "filename":"Icon-App-50x50@1x.png"
+        },
+        {
+            "idiom":"ios-marketing",
+            "size":"1024x1024",
+            "scale":"1x",
+            "filename":"Ios-Marketing-1024x1024@1x.png"
+        },
     ],
     "info":{
         "version":1,
